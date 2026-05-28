@@ -23,6 +23,7 @@ TODO:
 Positive og negative (gevinst og risiko - og hvordan mitigere)
 - avhengigheter (UiO)
 - livslsyklus se i relasjon til properitær programvare (hdir)
+https://youtu.be/zP6TnEiueEc?si=eWuTZaSGNk-hpG43
 
 Digitale løsninger i offentlig sektor har ofte lang levetid – gjerne 10–20 år – og det er gjennom hele denne livssyklusen, ikke bare ved anskaffelsen, at kostnadene og risikoen faktisk påløper.
 
